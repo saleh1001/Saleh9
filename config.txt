@@ -50,7 +50,7 @@ prefix=N
 // If you set this, it will modify the default status of bot
 // Valid values: ONLINE IDLE DND INVISIBLE
 //
-status=DND
+//status=DND
 
 
 // If you set this to true, the bot will list the title of the song it is currently playing in its
@@ -68,10 +68,10 @@ songinstatus=true
 
 // If you set these, it will change the success, warning, and error emojis
 //
-success=♪
-warning=🔹
-error=❌
-loading=⏩
+success=🎙
+warning=🔴
+error=🔇
+loading=📡
 searching=🔍
 
 
