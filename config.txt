@@ -69,7 +69,7 @@ songinstatus=true
 // If you set these, it will change the success, warning, and error emojis
 //
 success=🎙
-warning=🔴
+warning=🔊
 error=🔇
 loading=📡
 searching=🔍
