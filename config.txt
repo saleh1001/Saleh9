@@ -19,7 +19,7 @@ token=NDg3MTkyMTQ0MDAwNTgxNjQz.DnKFMg.sd9oQFnbyje5QaetZNJaxKZX4-k
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=400322722669920268
+owner=436856467044302848
 
 
 // This sets the prefix for the bot
@@ -28,7 +28,7 @@ owner=400322722669920268
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=Y
+prefix=N
 
 
 /////////////////////////////////////////////////////////////
