@@ -12,7 +12,6 @@
 // This MUST be a bot token (user tokens will not work)
 // If you don't know how to get a bot token, please see the guide here:
 
-token=NDg3MTkyMTQ0MDAwNTgxNjQz.DnKFMg.sd9oQFnbyje5QaetZNJaxKZX4-k
 
 
 // This sets the owner of the bot
