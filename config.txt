@@ -11,14 +11,16 @@
 // This sets the token for the bot to log in with
 // This MUST be a bot token (user tokens will not work)
 // If you don't know how to get a bot token, please see the guide here:
+// https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
+token=NDk3NzMwMjcxNDE2ODExNTIy.Dpja-A.pMSmAwLR_643HxQEAgYhpcwtdGQ
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=436856467044302848
+owner=362936427627151370
 
 
 // This sets the prefix for the bot
@@ -27,7 +29,7 @@ owner=436856467044302848
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=N
+prefix=X
 
 
 /////////////////////////////////////////////////////////////
@@ -41,22 +43,22 @@ prefix=N
 // Set this to NONE to have no game
 // You can make the game 'Playing X', 'Listening to X', or 'Watching X'
 // where X is the title. If you don't include an action, it will use the
-// default of 'Listening to X'
+// default of 'Playing'
 //
-//game=Listening to X
+//game=Listening to Example game!
 
 
 // If you set this, it will modify the default status of bot
 // Valid values: ONLINE IDLE DND INVISIBLE
 //
-//status=DND
+//status=ONLINE
 
 
 // If you set this to true, the bot will list the title of the song it is currently playing in its
 // "Playing" status. Note that this will ONLY work if the bot is playing music on ONE guild;
 // if the bot is playing on multiple guilds, this will not work.
 //
-songinstatus=true
+//songinstatus=true
 
 
 // If you set this, the bot will also use this prefix in addition to
@@ -67,11 +69,11 @@ songinstatus=true
 
 // If you set these, it will change the success, warning, and error emojis
 //
-success=🎙
-warning=🔊
-error=🔇
-loading=📡
-searching=🔍
+//success=🎶
+//warning=💡
+//error=🚫
+//loading=⌚
+//searching=🔎
 
 
 // If you set this, you change the word used to view the help.
@@ -86,14 +88,14 @@ searching=🔍
 // This is because refreshing the boxes causes the image to be reloaded
 // every time it refreshes.
 //
-npimages=true
+//npimages=true
 
 
 // If you set this, the bot will not leave a voice channel after it finishes a queue.
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 //
-stayinchannel=true
+//stayinchannel=true
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
