@@ -13,6 +13,8 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
+token=NDk3NzY1NjkzNTcyMzgyNzIx.Dpj79Q.r4o0C2kDNIcy7g-LQGzIgkJdowk
+
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
@@ -27,7 +29,7 @@ owner=362936427627151370
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=X
+prefix=js
 
 
 /////////////////////////////////////////////////////////////
